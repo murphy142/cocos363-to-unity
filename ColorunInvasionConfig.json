@@ -1,0 +1,11 @@
+{
+    "open": false,
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ],
+    "ip": [
+        "VN",
+    ]
+}
